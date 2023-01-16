@@ -1,0 +1,19 @@
+{
+  "name": "tire-management",
+  "version": "1.0.0",
+  "description": "This is a website for Jackie's friends tire company",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Interrius/TireManagementsystem.git"
+  },
+  "author": "Martin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Interrius/TireManagementsystem/issues"
+  },
+  "homepage": "https://github.com/Interrius/TireManagementsystem#readme"
+}
